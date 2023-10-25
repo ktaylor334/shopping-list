@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>HTML: Lists</title>
+    </head>
+    <body>
+
+    <h1>Shopping List</h1>
+    
+    <h2>Dairy</h2>
+    
+    <ul>
+        <li>Milk</li> 
+        <img src="https://planetoat.com/uploadedimages/planetoat/products/planetoat52ozoriginal(2).png" width="100" height="150">
+        <li>Butter</li>
+        <img src="https://www.icantbelieveitsnotbutter.com/en/-/media/Project/Upfield/Brands/ICBIN/ICBIN-US/Assets/Products/Original/Original---Front.png?rev=cdd7383f419b48a09c6a9e6b8420f1f4" width="100" height="100">
+        <li>Yougurt</li>
+        <img src="https://californiaranchmarket.com/cdn/shop/products/000286.jpg?v=1622475751" width="100" height="100">
+        <li>Cheese</li>
+        <img src="https://images.heb.com/is/image/HEBGrocery/000133161-1?jpegSize=150&hei=1400&fit=constrain&qlt=75" width="100">
+        <li>Icecream</li>
+        <img src="https://i5.walmartimages.com/seo/Ben-Jerry-s-Strawberry-Cheesecake-Ice-Cream-Pint-16-oz_6f1d78aa-7ed9-424b-8d0a-806922a5b3d9.d1d44a0ce86420dd63ee52b6f7fec709.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF" width="100" height="100">
+    </ul>
+    
+    <h3>Vegtables</h3>
+    
+    <ul>
+        <li>Kale</li>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Boerenkool.jpg" height="100" width="100">
+        <li>Broccoli</li>
+        <img src="https://domf5oio6qrcr.cloudfront.net/medialibrary/5390/h1218g16207258089583.jpg" height="100" width="100">
+        <li>Carrot</li>
+         <img src="https://www.jessicagavin.com/wp-content/uploads/2019/02/carrots-7-600x900.jpg" height="100" width="100">
+        <li>Pepper</li>
+         <img src="https://domf5oio6qrcr.cloudfront.net/medialibrary/5193/h0718g1620725736012.jpg" height="100" width="100">
+        <li>Peas</li>
+         <img src="https://www.tastingtable.com/img/gallery/15-mistakes-everyone-seems-to-make-with-peas/intro-1684624521.webp" height="100" width="100">
+    </ul>
+    
+    <h2>Grains</h2>
+    
+    <ul>
+        <li>Bread</li> 
+         <img src="https://www.foodandwine.com/thmb/C8XvnSkIMvz2XewXFDB_JYK-mSU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Perfect-Sandwich-Bread-FT-RECIPE0723-dace53e15a304942acbc880b0ae34f5a.jpg" height="100" width="100">
+        <li>Pasta</li>
+         <img src="https://assets.epicurious.com/photos/5988e3458e3ab375fe3c0caf/1:1/w_1600,c_limit/How-to-Make-Chicken-Alfredo-Pasta-hero-02082017.jpg" height="100" width="100">
+        <li>Rice</li>
+         <img src="https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2020/04/How-to-Cook-Rice-8.jpg" height="150" width="100">
+        <li>Oatmeal</li>
+         <img src="https://www.quakeroats.com/images/default-source/products/quaker_maplebrownsugar_320x400" height="150" width="100">
+        <li>Bagel</li>
+         <img src="https://breadpartners.com/wp-content/uploads/2020/04/Tri-State-Cinnamon-Raisin-Bagel.jpg.webp" height="100" width="100">
+    </ul>
+    
+    <h3>Frozen Foods</h3>
+    
+    <ul>
+        <li>Frozen Pizza</li>
+         <img src="https://www.goodnes.com/sites/g/files/jgfbjl321/files/styles/gdn_hero_pdp_product_image/public/gdn_product/field_product_images/digiorno-30a49779110ec80a3af2e6082010561b0dc1a649.png.webp?itok=FKHDpPVk" height="100" width="100">
+        <li>Pizza Rolls</li>
+         <img src="https://www.totinos.com/wp-content/uploads/2023/05/Combination-Pizza-Rolls_460x460.png" height="100" width="100">
+        <li>Fries</li>
+         <img src="https://assets.bonappetit.com/photos/6324e9c013f85ac591e9593c/master/w_1600,c_limit/0916-french-fry-taste-test-alexia.jpg" height="100" width="100">
+        <li>Popsicle</li>
+         <img src="https://www.popsicle.com/sk-eu/content/dam/brands/popsicle/united_states_ofamerica/41221344-sugar-free-tropicals.jpg.rendition.767.767.jpg" height="100" width="100">
+        <li>Frozen Fruit</li>
+         <img src="https://i5.walmartimages.com/seo/Great-Value-Mixed-Fruit-Frozen-16-oz_0c70536d-be8f-4154-b57e-c3d616b82625.b3f5b7f7ddef793886bef71c2527d784.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF" height="100" width="100">
+    </ul>
+        
+    <h3>Seafood</h3>   
+        
+    <ul>
+        <li>Shrimp</li>
+         <img src="https://www.inspiredtaste.net/wp-content/uploads/2023/06/Easy-Cajun-Shrimp-3-1200.jpg" height="150" width="100">
+        <li>Salmon</li>
+         <img src="https://natashaskitchen.com/wp-content/uploads/2016/01/Teriyaki-Salmon-Recipe-4.jpg" height="100" width="100">
+        <li>Crab</li>
+         <img src="https://www.wholesomeyum.com/wp-content/uploads/2021/10/wholesomeyum-How-To-Cook-Crab-Legs-20.jpg" height="100" width="100">
+        <li>Snapper</li>
+         <img src="https://www.preciouscore.com/wp-content/uploads/2020/06/Grilled-Whole-Red-Snapper.jpg" height="100" width="100">
+        <li>Squid</li> 
+         <img src="https://www.thespruceeats.com/thmb/BSYlH-mloaBfGESJrYjXxOtJmeU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/fried-calamari-2019531-hero-01-e294f265d7e84c0f89d4b5759759ffbf.jpg" height="100" width="150">
+    </ul>
+    
+    </body>
+</html>
